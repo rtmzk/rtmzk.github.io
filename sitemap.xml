@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.rtmzk.com/2023/07/05/[%E6%95%85%E9%9A%9C%E6%8E%92%E6%9F%A5]%E8%AE%B0%E4%B8%80%E5%88%99%E7%94%B1kube-proxy%E5%BC%95%E8%B5%B7%E7%9A%84%E7%BD%91%E7%BB%9C%E9%97%AE%E9%A2%98/</loc>
+    <loc>https://blog.rtmzk.com/285bceaf.html</loc>
+    
+    <lastmod>2023-07-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.rtmzk.com/a32044c2.html</loc>
     
     <lastmod>2023-07-05</lastmod>
     
@@ -49,29 +58,50 @@
 
   <url>
     <loc>https://blog.rtmzk.com/</loc>
-    <lastmod>2023-07-06</lastmod>
+    <lastmod>2023-07-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
+    <loc>https://blog.rtmzk.com/tags/zabbix/</loc>
+    <lastmod>2023-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.rtmzk.com/tags/%E7%9B%91%E6%8E%A7/</loc>
+    <lastmod>2023-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.rtmzk.com/tags/shell/</loc>
+    <lastmod>2023-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.rtmzk.com/tags/kubernetes/</loc>
-    <lastmod>2023-07-06</lastmod>
+    <lastmod>2023-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.rtmzk.com/tags/%E4%BA%91%E5%8E%9F%E7%94%9F/</loc>
-    <lastmod>2023-07-06</lastmod>
+    <lastmod>2023-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.rtmzk.com/tags/%E7%BD%91%E7%BB%9C/</loc>
-    <lastmod>2023-07-06</lastmod>
+    <lastmod>2023-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -79,8 +109,15 @@
 
   
   <url>
+    <loc>https://blog.rtmzk.com/categories/%E7%9B%91%E6%8E%A7/</loc>
+    <lastmod>2023-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.rtmzk.com/categories/kubernetes/</loc>
-    <lastmod>2023-07-06</lastmod>
+    <lastmod>2023-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
