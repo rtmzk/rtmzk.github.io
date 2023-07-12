@@ -65,27 +65,6 @@
 
   
   <url>
-    <loc>https://blog.rtmzk.com/tags/zabbix/</loc>
-    <lastmod>2023-07-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.rtmzk.com/tags/%E7%9B%91%E6%8E%A7/</loc>
-    <lastmod>2023-07-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.rtmzk.com/tags/shell/</loc>
-    <lastmod>2023-07-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.rtmzk.com/tags/kubernetes/</loc>
     <lastmod>2023-07-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -106,17 +85,38 @@
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>https://blog.rtmzk.com/categories/%E7%9B%91%E6%8E%A7/</loc>
+    <loc>https://blog.rtmzk.com/tags/zabbix/</loc>
     <lastmod>2023-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
+    <loc>https://blog.rtmzk.com/tags/%E7%9B%91%E6%8E%A7/</loc>
+    <lastmod>2023-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.rtmzk.com/tags/shell/</loc>
+    <lastmod>2023-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
     <loc>https://blog.rtmzk.com/categories/kubernetes/</loc>
+    <lastmod>2023-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.rtmzk.com/categories/%E7%9B%91%E6%8E%A7/</loc>
     <lastmod>2023-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
